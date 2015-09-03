@@ -1,1 +1,2 @@
 # QuadroBot
+author: Maciej Wójcik
